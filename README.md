@@ -1,3 +1,5 @@
 # cpp-learn
 cpp学习中...
 目标是用在单片机的应用层和中间层。
+构建工具：xmake
+平台：Windows和arm cotex-m4
