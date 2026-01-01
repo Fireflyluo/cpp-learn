@@ -1,0 +1,6 @@
+[
+{
+  "directory": "D:\\computer\\cpp\\1.helllo\\hello",
+  "arguments": ["D:\\APP\\path\\mingw64\\bin\\g++.exe", "-c", "-m64", "-g", "-O0", "-o", "build\\.objs\\hello\\mingw\\x86_64\\debug\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+}]
